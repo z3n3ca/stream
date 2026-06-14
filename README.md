@@ -14,3 +14,4 @@
 11. When the hymn is finished, click the "Close" button in the lower right-hand corner of the page.
 12. When ready for the Sacrament, click the "Administration of the Sacrament" block to enable the OBS overlay.
 13. When the Sacrament is complete, click the "blank" block - it will reset your view.
+14. When the stream is complete, click the "End Stream" button from Ward Tools or the "End Stream" button in OBS Studio.
