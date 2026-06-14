@@ -12,3 +12,5 @@
 9. The stream is managed through the Ward Tools website. Camera views are controlled by icons along the top of the program.
 10. Hymns are updated for today's program. Click the hymn block for the appropriate hymn and your camera angle will change and the hymn lyrics will begin to appear on the stream. You will need to click each lyric block manually as the music progresses.
 11. When the hymn is finished, click the "Close" button in the lower right-hand corner of the page.
+12. When ready for the Sacrament, click the "Administration of the Sacrament" block to enable the OBS overlay.
+13. When the Sacrament is complete, click the "blank" block - it will reset your view.
